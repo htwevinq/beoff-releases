@@ -1,0 +1,8 @@
+version: 0.2.0
+files:
+  - url: https://github.com/htwevinq/beoff-releases/releases/download/v0.2.0-beta-pc/beoff-setup-0.2.0-beta-pc.exe
+    sha512: wLT0uUOIhDLo3HDyRA0s1qy1URWtK5g5vLPBCm3ygj+oYlOd6KfDeGcFKC7IY53Hd8vZYEd5VPHyfhpYjp0RfQ==
+    size: 111433584
+path: https://github.com/htwevinq/beoff-releases/releases/download/v0.2.0-beta-pc/beoff-setup-0.2.0-beta-pc.exe
+sha512: wLT0uUOIhDLo3HDyRA0s1qy1URWtK5g5vLPBCm3ygj+oYlOd6KfDeGcFKC7IY53Hd8vZYEd5VPHyfhpYjp0RfQ==
+releaseDate: '2026-10-16T18:29:01.371Z'
