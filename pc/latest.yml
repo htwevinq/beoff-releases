@@ -1,8 +1,8 @@
-version: 0.5.1
+version: 0.5.2
 files:
-  - url: https://github.com/htwevinq/beoff-releases/releases/download/v0.5.1-beta-pc/beoff-setup-0.5.1-beta-pc.exe
-    sha512: 3v2Iz8mxeHpHzu3fv4+MLKwKIZHwvo0gdoP7omDjJp+pj8IrqsnQOQl4hjG7DS34P+IKk912cd5gZFfM0HxtEQ==
-    size: 103598133
-path: https://github.com/htwevinq/beoff-releases/releases/download/v0.5.1-beta-pc/beoff-setup-0.5.1-beta-pc.exe
-sha512: 3v2Iz8mxeHpHzu3fv4+MLKwKIZHwvo0gdoP7omDjJp+pj8IrqsnQOQl4hjG7DS34P+IKk912cd5gZFfM0HxtEQ==
-releaseDate: '2026-10-27T22:02:31.343Z'
+  - url: https://github.com/htwevinq/beoff-releases/releases/download/v0.5.2-beta-pc/beoff-setup-0.5.2-beta-pc.exe
+    sha512: Aj0fPA8IXgFZzJ7hsk9M9nFL6KUOlQkwHkPKc5OrhBa7N0Wj2OWWBIy00O3w4jE/6VMh102Cwt7bukNdp7pyvQ==
+    size: 103598764
+path: https://github.com/htwevinq/beoff-releases/releases/download/v0.5.2-beta-pc/beoff-setup-0.5.2-beta-pc.exe
+sha512: Aj0fPA8IXgFZzJ7hsk9M9nFL6KUOlQkwHkPKc5OrhBa7N0Wj2OWWBIy00O3w4jE/6VMh102Cwt7bukNdp7pyvQ==
+releaseDate: '2026-10-27T23:32:34.372Z'
