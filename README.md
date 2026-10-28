@@ -7,7 +7,7 @@
 | | Версия | Вышла | |
 |---|---|---|---|
 | **Windows** | [0.5.4-beta-pc](https://github.com/htwevinq/beoff-releases/releases/tag/v0.5.4-beta-pc) | 28.10.2026 | **[Загрузить](https://github.com/htwevinq/beoff-releases/releases/download/v0.5.4-beta-pc/beoff-setup-0.5.4-beta-pc.exe)** · 98,9 МБ |
-| **Android** | [0.5.4-beta-android](https://github.com/htwevinq/beoff-releases/releases/tag/v0.5.4-beta-android) | 28.10.2026 | **[Загрузить](https://github.com/htwevinq/beoff-releases/releases/download/v0.5.4-beta-android/beoff-0.5.4-beta-android.apk)** · 5,7 МБ |
+| **Android** | [0.5.5-beta-android](https://github.com/htwevinq/beoff-releases/releases/tag/v0.5.5-beta-android) | 28.10.2026 | **[Загрузить](https://github.com/htwevinq/beoff-releases/releases/download/v0.5.5-beta-android/beoff-0.5.5-beta-android.apk)** · 5,7 МБ |
 
 Установленный BeOff обновляется сам: на ПК — при запуске (или в течение 6 часов), на телефоне — при запуске и когда возвращаетесь в приложение.
 
@@ -35,6 +35,7 @@
 
 | Версия | Вышла | |
 |---|---|---|
+| [0.5.4-beta-android](https://github.com/htwevinq/beoff-releases/releases/tag/v0.5.4-beta-android) | 28.10.2026 | [Загрузить](https://github.com/htwevinq/beoff-releases/releases/download/v0.5.4-beta-android/beoff-0.5.4-beta-android.apk) · 5,7 МБ |
 | [0.5.3-beta-android](https://github.com/htwevinq/beoff-releases/releases/tag/v0.5.3-beta-android) | 28.10.2026 | [Загрузить](https://github.com/htwevinq/beoff-releases/releases/download/v0.5.3-beta-android/beoff-0.5.3-beta-android.apk) · 5,7 МБ |
 | [0.5.2-beta-android](https://github.com/htwevinq/beoff-releases/releases/tag/v0.5.2-beta-android) | 28.10.2026 | [Загрузить](https://github.com/htwevinq/beoff-releases/releases/download/v0.5.2-beta-android/beoff-0.5.2-beta-android.apk) · 5,7 МБ |
 | [0.5.1-beta-android](https://github.com/htwevinq/beoff-releases/releases/tag/v0.5.1-beta-android) | 28.10.2026 | [Загрузить](https://github.com/htwevinq/beoff-releases/releases/download/v0.5.1-beta-android/beoff-0.5.1-beta-android.apk) · 5,7 МБ |
