@@ -6,7 +6,7 @@
 
 | | Версия | Вышла | |
 |---|---|---|---|
-| **Windows** | [0.5.5-beta-pc](https://github.com/htwevinq/beoff-releases/releases/tag/v0.5.5-beta-pc) | 28.10.2026 | **[Загрузить](https://github.com/htwevinq/beoff-releases/releases/download/v0.5.5-beta-pc/beoff-setup-0.5.5-beta-pc.exe)** · 98,9 МБ |
+| **Windows** | [0.5.6-beta-pc](https://github.com/htwevinq/beoff-releases/releases/tag/v0.5.6-beta-pc) | 30.10.2026 | **[Загрузить](https://github.com/htwevinq/beoff-releases/releases/download/v0.5.6-beta-pc/beoff-setup-0.5.6-beta-pc.exe)** · 98,9 МБ |
 | **Android** | [0.5.5-beta-android](https://github.com/htwevinq/beoff-releases/releases/tag/v0.5.5-beta-android) | 28.10.2026 | **[Загрузить](https://github.com/htwevinq/beoff-releases/releases/download/v0.5.5-beta-android/beoff-0.5.5-beta-android.apk)** · 5,7 МБ |
 
 Установленный BeOff обновляется сам: на ПК — при запуске (или в течение 6 часов), на телефоне — при запуске и когда возвращаетесь в приложение.
@@ -17,6 +17,7 @@
 
 | Версия | Вышла | |
 |---|---|---|
+| [0.5.5-beta-pc](https://github.com/htwevinq/beoff-releases/releases/tag/v0.5.5-beta-pc) | 28.10.2026 | [Загрузить](https://github.com/htwevinq/beoff-releases/releases/download/v0.5.5-beta-pc/beoff-setup-0.5.5-beta-pc.exe) · 98,9 МБ |
 | [0.5.4-beta-pc](https://github.com/htwevinq/beoff-releases/releases/tag/v0.5.4-beta-pc) | 28.10.2026 | [Загрузить](https://github.com/htwevinq/beoff-releases/releases/download/v0.5.4-beta-pc/beoff-setup-0.5.4-beta-pc.exe) · 98,9 МБ |
 | [0.5.3-beta-pc](https://github.com/htwevinq/beoff-releases/releases/tag/v0.5.3-beta-pc) | 28.10.2026 | [Загрузить](https://github.com/htwevinq/beoff-releases/releases/download/v0.5.3-beta-pc/beoff-setup-0.5.3-beta-pc.exe) · 98,8 МБ |
 | [0.5.2-beta-pc](https://github.com/htwevinq/beoff-releases/releases/tag/v0.5.2-beta-pc) | 28.10.2026 | [Загрузить](https://github.com/htwevinq/beoff-releases/releases/download/v0.5.2-beta-pc/beoff-setup-0.5.2-beta-pc.exe) · 98,8 МБ |
